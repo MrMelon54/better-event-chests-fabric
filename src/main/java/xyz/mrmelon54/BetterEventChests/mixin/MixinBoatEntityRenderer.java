@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.mixin;
+package xyz.mrmelon54.BetterEventChests.mixin;
 
 import com.mojang.datafixers.util.Pair;
 import net.minecraft.client.render.entity.BoatEntityRenderer;
@@ -7,7 +7,7 @@ import net.minecraft.util.Identifier;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
-import xyz.mrmelon54.BetterChristmasChests.client.BetterChristmasChestsClient;
+import xyz.mrmelon54.BetterEventChests.client.BetterChristmasChestsClient;
 
 @Mixin(BoatEntityRenderer.class)
 public abstract class MixinBoatEntityRenderer {

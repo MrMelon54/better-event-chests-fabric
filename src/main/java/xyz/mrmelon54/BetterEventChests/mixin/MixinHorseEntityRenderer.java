@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.mixin;
+package xyz.mrmelon54.BetterEventChests.mixin;
 
 import com.google.common.collect.Maps;
 import net.minecraft.client.render.entity.HorseEntityRenderer;
@@ -6,7 +6,7 @@ import net.minecraft.entity.passive.HorseColor;
 import net.minecraft.entity.passive.HorseEntity;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.Util;
-import xyz.mrmelon54.BetterChristmasChests.client.BetterChristmasChestsClient;
+import xyz.mrmelon54.BetterEventChests.client.BetterChristmasChestsClient;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

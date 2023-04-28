@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.mixin;
+package xyz.mrmelon54.BetterEventChests.mixin;
 
 import net.minecraft.client.render.entity.ZombieHorseEntityRenderer;
 import net.minecraft.entity.EntityType;
@@ -9,7 +9,7 @@ import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
-import xyz.mrmelon54.BetterChristmasChests.client.BetterChristmasChestsClient;
+import xyz.mrmelon54.BetterEventChests.client.BetterChristmasChestsClient;
 
 import java.util.HashMap;
 import java.util.Map;

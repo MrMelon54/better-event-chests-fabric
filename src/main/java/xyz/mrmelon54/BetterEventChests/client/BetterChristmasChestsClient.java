@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.client;
+package xyz.mrmelon54.BetterEventChests.client;
 
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.serializer.JanksonConfigSerializer;
@@ -7,10 +7,10 @@ import net.fabricmc.fabric.mixin.object.builder.client.ModelPredicateProviderReg
 import net.minecraft.item.Item;
 import net.minecraft.item.Items;
 import net.minecraft.util.Identifier;
-import xyz.mrmelon54.BetterChristmasChests.config.ConfigStructure;
-import xyz.mrmelon54.BetterChristmasChests.enums.ChristmasChestsEnabled;
-import xyz.mrmelon54.BetterChristmasChests.models.ChristmasChestModelProvider;
-import xyz.mrmelon54.BetterChristmasChests.utils.ChestBoatArray;
+import xyz.mrmelon54.BetterEventChests.config.ConfigStructure;
+import xyz.mrmelon54.BetterEventChests.enums.ChristmasChestsEnabled;
+import xyz.mrmelon54.BetterEventChests.models.ChristmasChestModelProvider;
+import xyz.mrmelon54.BetterEventChests.utils.ChestBoatArray;
 
 import java.util.Calendar;
 

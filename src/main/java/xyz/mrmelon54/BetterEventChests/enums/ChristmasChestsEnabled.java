@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.enums;
+package xyz.mrmelon54.BetterEventChests.enums;
 
 public enum ChristmasChestsEnabled {
     ALWAYS("Always"),

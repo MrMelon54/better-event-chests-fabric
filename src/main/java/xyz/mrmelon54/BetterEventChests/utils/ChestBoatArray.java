@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.utils;
+package xyz.mrmelon54.BetterEventChests.utils;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.Items;

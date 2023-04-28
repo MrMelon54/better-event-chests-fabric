@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.utils;
+package xyz.mrmelon54.BetterEventChests.utils;
 
 import net.minecraft.client.util.SpriteIdentifier;
 

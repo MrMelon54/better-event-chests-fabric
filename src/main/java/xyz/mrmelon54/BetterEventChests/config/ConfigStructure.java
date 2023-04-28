@@ -1,9 +1,9 @@
-package xyz.mrmelon54.BetterChristmasChests.config;
+package xyz.mrmelon54.BetterEventChests.config;
 
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;
 import me.shedaniel.autoconfig.annotation.ConfigEntry;
-import xyz.mrmelon54.BetterChristmasChests.enums.ChristmasChestsEnabled;
+import xyz.mrmelon54.BetterEventChests.enums.ChristmasChestsEnabled;
 
 @SuppressWarnings("unused")
 @Config(name = "better-christmas-chests")

@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.mixin;
+package xyz.mrmelon54.BetterEventChests.mixin;
 
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
@@ -6,7 +6,7 @@ import net.minecraft.block.entity.BlockEntity;
 import net.minecraft.block.enums.ChestType;
 import net.minecraft.client.util.SpriteIdentifier;
 import net.minecraft.util.Identifier;
-import xyz.mrmelon54.BetterChristmasChests.client.BetterChristmasChestsClient;
+import xyz.mrmelon54.BetterEventChests.client.BetterChristmasChestsClient;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Pseudo;
 import org.spongepowered.asm.mixin.injection.At;

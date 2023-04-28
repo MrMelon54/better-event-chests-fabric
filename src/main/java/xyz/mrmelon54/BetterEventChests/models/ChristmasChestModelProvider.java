@@ -1,4 +1,4 @@
-package xyz.mrmelon54.BetterChristmasChests.models;
+package xyz.mrmelon54.BetterEventChests.models;
 
 import net.minecraft.client.item.UnclampedModelPredicateProvider;
 import net.minecraft.client.world.ClientWorld;
@@ -6,8 +6,8 @@ import net.minecraft.entity.LivingEntity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
 import org.jetbrains.annotations.Nullable;
-import xyz.mrmelon54.BetterChristmasChests.client.BetterChristmasChestsClient;
-import xyz.mrmelon54.BetterChristmasChests.utils.ChestBoatArray;
+import xyz.mrmelon54.BetterEventChests.client.BetterChristmasChestsClient;
+import xyz.mrmelon54.BetterEventChests.utils.ChestBoatArray;
 
 import java.util.Arrays;
 
